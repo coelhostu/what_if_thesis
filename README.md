@@ -7,32 +7,30 @@ Com fins educativos, de acordo com as escolhas do usuário, diferentes percursos
 Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 
 
-#### Créditos: 
-Direção
-João Coelho
+### Créditos: 
+#### Direção 
+<p> João Coelho </p>
 
-Roteiro
-João Coelho
-Joseli Nogueira
-Claudia Jurberg
+#### Roteiro 
+<p> João Coelho </p>
 
-Atuação
-Rodrigo Rodrigues
-Joseli Nogueira
+<p> Claudia Jurberg </p> 
 
-Filmagem 
-Alberto Moura
+#### Atuação 
+<p> Rodrigo Rodrigues </p>
+<p> Joseli Nogueira </p> 
 
-Animação e Arte
-Ingrid Lopes
-Bruna Stutz
-João Coelho
+#### Filmagem 
+<p>Alberto Moura</p>
+
+#### Animação e Arte
+<p> Ingrid Lopes </p>
+<p >Bruna Stutz </p>
+<p> João Coelho </p>
 
 #### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
-
-
-
+##### Em construção...
 
 
 
