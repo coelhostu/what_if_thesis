@@ -1,32 +1,31 @@
-# O que aconteceria se...Um laboratório em animação interativa /  What if ... a laboratory in interactive animation 
-
-Essa é um projeto que se iniciou em 2019 e com a versão beta finalizada em 2023, como parte de uma pesquisa na área de ensino. Uma narrativa em animação interativa em rostocopia em 360. 
-Com fins educativos, de acordo com as escolhas do usuário, diferentes percursos podem ser acessados na história, assim como os livros jogos (conhecidos como Choose your own adventure - Escolha sua aventura).
+# What if ... a laboratory in interactive animation 
+This is a project that began in 2019 and with the beta version finalized in 2023, as part of research in the field of education. An interactive rotoscope animation narrative in 360. 
+For educational purposes, according to the user's choices, different paths can be accessed in the story, much like gamebooks (known as Choose Your Own Adventure).
 <br>
-Produto - Fase beta: [https://science-lab.studiens.com/](URL)
+Phase beta: [https://science-lab.studiens.com/](URL)
 
-#### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
+#### Made in: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
-### Créditos: 
-#### Direção 
+## Credits: 
+#### Direction 
 ###### João Coelho 
 
-#### Roteiro 
+#### Script 
 ###### João Coelho, Claudia Jurberg, Joseli Nogueira
 
-#### Atuação 
+#### Actors 
 ###### Rodrigo Rodrigues (Chefe do laboratório e técnico), Joseli Nogueira (Visão em Primeira pessoa)
 
-#### Filmagem 
+#### Filmind 
 ###### Alberto Moura
 
-#### Animação e Arte
+#### Animation and art
 ###### Ingrid Lopes, Bruna Stutz, João Coelho 
 
-#### Softwares utilizados:
+#### Software used:
 ###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
 
-##### Em construção...
+##### Under construction.....
 
 
 
