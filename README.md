@@ -7,23 +7,24 @@ Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 
 ### Créditos: 
 #### Direção 
-<p> João Coelho </p>
+###### João Coelho 
 
 #### Roteiro 
-<p> João Coelho </p>
-<p> Claudia Jurberg </p> 
+###### João Coelho
+###### Claudia Jurberg 
+###### Joseli Nogueira
 
 #### Atuação 
-<p> Rodrigo Rodrigues </p>
-<p> Joseli Nogueira </p> 
+###### Rodrigo Rodrigues 
+###### Joseli Nogueira  
 
 #### Filmagem 
-<p>Alberto Moura</p>
+###### Alberto Moura
 
 #### Animação e Arte
-<p> Ingrid Lopes </p>
-<p >Bruna Stutz </p>
-<p> João Coelho </p>
+###### Ingrid Lopes 
+###### Bruna Stutz 
+###### João Coelho 
 
 #### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
