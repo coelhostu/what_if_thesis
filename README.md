@@ -27,6 +27,9 @@ Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 
 #### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
+#### Softwares utilizados:
+###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
+
 ##### Em construção...
 
 
