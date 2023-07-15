@@ -5,6 +5,8 @@ Com fins educativos, de acordo com as escolhas do usuário, diferentes percursos
 <br>
 Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 
+#### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
+
 ### Créditos: 
 #### Direção 
 ###### João Coelho 
@@ -20,8 +22,6 @@ Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 
 #### Animação e Arte
 ###### Ingrid Lopes, Bruna Stutz, João Coelho 
-
-#### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
 #### Softwares utilizados:
 ###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
