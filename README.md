@@ -10,21 +10,16 @@ Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 ###### João Coelho 
 
 #### Roteiro 
-###### João Coelho
-###### Claudia Jurberg 
-###### Joseli Nogueira
+###### João Coelho, Claudia Jurberg, Joseli Nogueira
 
 #### Atuação 
-###### Rodrigo Rodrigues 
-###### Joseli Nogueira  
+###### Rodrigo Rodrigues (Chefe do laboratório e técnico), Joseli Nogueira (Visão em Primeira pessoa)
 
 #### Filmagem 
 ###### Alberto Moura
 
 #### Animação e Arte
-###### Ingrid Lopes 
-###### Bruna Stutz 
-###### João Coelho 
+###### Ingrid Lopes, Bruna Stutz, João Coelho 
 
 #### Feito em: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
 
@@ -32,7 +27,6 @@ Produto - Fase beta: [https://science-lab.studiens.com/](URL)
 ###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
 
 ##### Em construção...
-
 
 
 
