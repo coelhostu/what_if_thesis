@@ -1,5 +1,5 @@
 # What if...? A laboratory in interactive animation 
-This is a project that began in 2019 and with the beta version finalized in 2023, as part of research in the field of education. An interactive rotoscope animation narrative in 360. 
+This is a project that began in 2019 and with the MVP version finalized in 2023, as part of research in the field of education. An interactive rotoscope animation narrative in 360. 
 For educational purposes, according to the user's choices, different paths can be accessed in the story, much like gamebooks (known as Choose Your Own Adventure).
 <br>
 Phase beta: [https://science-lab.studiens.com/](URL)
