@@ -1,0 +1,11 @@
+#initialLoading{
+    background:url(assets/htmlimages/loader.gif) no-repeat center center;
+    background-color:#ffffff;
+    position:absolute;
+    margin:auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:10010;
+}
