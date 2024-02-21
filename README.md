@@ -31,7 +31,7 @@ Trata-se de uma narrativa não linear com finalidades educacionais, onde, depend
 ###### Ingrid Lopes, Bruna Stutz, João Coelho Jr.;
 
 ### Desenvolvimento
-##### João Coelho Jr.;
+###### João Coelho Jr.;
 
 #### Softwares Utilizados:
 ###### Adobe Illustrator, Adobe Animate, Adobe Photoshop, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
