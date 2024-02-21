@@ -10,9 +10,8 @@ A obra é inspirada em histórias em quadrinhos em preto e branco, onde apenas o
 
 Trata-se de uma narrativa não linear com finalidades educacionais, onde, dependendo das escolhas do usuário, diferentes caminhos podem ser explorados na história, de maneira semelhante aos gamebooks (conhecidos como "Escolha Sua Própria Aventura").
 
-
-<br>
-Product: [https://coelhostu.github.io/what_if_thesis/](URL)
+<br> A aplicação web VR pode ser visualizada através de óculos de realidade virtual, bem como em computadores e dispositivos móveis em formato de tela plana.
+[https://coelhostu.github.io/what_if_thesis/](URL)
 
 #### Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz (Produto de tese)
 
