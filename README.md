@@ -1,19 +1,20 @@
 # What if...? A laboratory in interactive animation 
 
-This project was initiated in 2019, with production starting in 2021, post-pandemic, and with the MVP version completed in 2023, within the context of educational research. 
-An interactive rotoscope animation narrative in 360o. The rotoscope technique involves creating animated sequences by tracing over real-life images, frame by frame.
+Este projeto foi iniciado em 2019, com a produção começando em 2021, após a pandemia, e com a versão MVP finalizada em 2023, dentro do contexto de pesquisa na área da educação.
 
-As a basis for the drawings, 360-degree first-person footage was recorded, allowing viewers to see the arms and body of an actor. This means that the user of the experience views events through the eyes of a character, as if they were the characterthemselves. To avoid potential discomfort, the 360-degree videos were captured in real time using a fixed Insta360 ONE X camera, allowing the user to look in all directions, albeit from a fixed position.
+Esta é uma narrativa interativa de animação em rotoscopia, destacando-se por sua escolha artística voltada para desenhos e animações. A técnica de rotoscopia envolve a criação de sequências animadas, traçando referências de imagens reais, quadro a quadro.
 
-The work is inspired by black and white comic books. Only highlighted objects become colored, acting as points of interest to direct the user's attention.
+Como base para os desenhos animados, foram realizadas filmagens em 360 graus em primeira pessoa, permitindo que se vejam os braços e o corpo de um ator. Isso significa que o usuário da experiência visualiza os eventos através dos olhos de um personagem, como se fosse o próprio personagem, mergulhando na expressão artística da narrativa. Para evitar possíveis desconfortos, os vídeos em 360 graus foram capturados em tempo real por meio de uma câmera fixa, a Insta360 ONE X, permitindo que o usuário olhe em todas as direções, embora a partir de uma posição fixa.
 
-This is a non-linear narrative with educational purposes, where, depending on the user's choices, different paths can be explored in the story, similar to gamebooks (known as "Choose Your Own Adventure").
+A obra é inspirada em histórias em quadrinhos em preto e branco, onde apenas objetos em destaque se tornam coloridos, atuando como pontos de interesse para direcionar a atenção do usuário.
+
+Trata-se de uma narrativa não linear com finalidades educacionais, onde, dependendo das escolhas do usuário, diferentes caminhos podem ser explorados na história, de maneira semelhante aos gamebooks (conhecidos como "Escolha Sua Própria Aventura").
 
 
 <br>
 Product: [https://coelhostu.github.io/what_if_thesis/](URL)
 
-#### Made in: Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz
+#### Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz (Produto de tese)
 
 ## Credits: 
 #### Direction 
