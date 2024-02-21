@@ -10,7 +10,7 @@ Trata-se de uma narrativa não linear com finalidades educacionais, onde, depend
 <br> A aplicação web VR pode ser visualizada através de óculos de realidade virtual, bem como em computadores e dispositivos móveis em formato de tela plana.
 <br> [https://coelhostu.github.io/what_if_thesis/](URL)
 
-<em> Obs: Este é um produto sem fins lucrativos. Este MVP poderá ser atualizado no futuro <em>
+<em> Obs: Este é um produto sem fins lucrativos. Este MVP poderá ser atualizado no futuro </em>
 
 #### Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz (Produto de tese)
 
