@@ -15,23 +15,23 @@ Trata-se de uma narrativa não linear com finalidades educacionais, onde, depend
 
 #### Programa de Pós Graduação em Ensino de Biociências e Saúde - Fiocruz (Produto de tese)
 
-## Credits: 
-#### Direction 
+## Créditos: 
+#### Direção 
 ###### João Coelho Jr.;
 
-#### Script 
+#### Roteiro 
 ###### João Coelho Jr., Claudia Jurberg, Joseli Nogueira;
 
-#### Actors 
+#### Atores 
 ###### Rodrigo Rodrigues, Joseli Nogueira (First-Person View);
 
-#### Filmind 
+#### Filmagens 
 ###### Alberto Moura;
 
-#### Animation and art
+#### Animação e arte
 ###### Ingrid Lopes, Bruna Stutz, João Coelho Jr.;
 
-#### Software used:
+#### Softwares Utilizados:
 ###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
 
 
