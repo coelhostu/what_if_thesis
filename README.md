@@ -30,7 +30,10 @@ Trata-se de uma narrativa não linear com finalidades educacionais, onde, depend
 #### Animação e arte
 ###### Ingrid Lopes, Bruna Stutz, João Coelho Jr.;
 
+### Desenvolvimento
+##### João Coelho Jr.;
+
 #### Softwares Utilizados:
-###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
+###### Adobe Illustrator, Adobe Animate, Adobe Photoshop, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
 
 
