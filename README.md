@@ -17,24 +17,21 @@ Product: [https://coelhostu.github.io/what_if_thesis/](URL)
 
 ## Credits: 
 #### Direction 
-###### João Coelho 
+###### João Coelho Jr.;
 
 #### Script 
-###### João Coelho, Claudia Jurberg, Joseli Nogueira
+###### João Coelho Jr., Claudia Jurberg, Joseli Nogueira;
 
 #### Actors 
-###### Rodrigo Rodrigues (Chefe do laboratório e técnico), Joseli Nogueira (Visão em Primeira pessoa)
+###### Rodrigo Rodrigues, Joseli Nogueira (First-Person View);
 
 #### Filmind 
-###### Alberto Moura
+###### Alberto Moura;
 
 #### Animation and art
-###### Ingrid Lopes, Bruna Stutz, João Coelho 
+###### Ingrid Lopes, Bruna Stutz, João Coelho Jr.;
 
 #### Software used:
 ###### Adobe Ilustrator, Adobe Animate, Adobe Photoshopt, Adobe Captivate, Adobe Audition, After Effects, Premiere Pro
-
-##### Under construction.....
-
 
 
