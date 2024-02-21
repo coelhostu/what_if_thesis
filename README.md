@@ -30,7 +30,7 @@ Trata-se de uma narrativa não linear com finalidades educacionais, onde, depend
 #### Animação e arte
 ###### Ingrid Lopes, Bruna Stutz, João Coelho Jr.;
 
-### Desenvolvimento
+#### Desenvolvimento
 ###### João Coelho Jr.;
 
 #### Softwares Utilizados:
