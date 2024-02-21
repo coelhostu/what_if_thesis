@@ -1,4 +1,4 @@
-# What if...? A laboratory in interactive animation 
+# O que aconteceria se...? Um laboratório em animação interativa"  / (What if...? A laboratory in interactive animation)
 
 Este projeto foi iniciado em 2019, com a produção começando em 2021, após a pandemia, e com a versão MVP finalizada em 2023, dentro do contexto de pesquisa na área da educação.
 
