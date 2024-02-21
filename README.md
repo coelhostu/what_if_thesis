@@ -4,7 +4,7 @@ Este projeto foi iniciado em 2019, com a produção começando em 2021, após a 
 
 Esta é uma narrativa interativa de animação em rotoscopia, destacando-se por sua escolha artística voltada para desenhos e animações. A técnica de rotoscopia envolve a criação de sequências animadas, traçando referências de imagens reais, quadro a quadro.
 
-Como base para os desenhos animados, foram realizadas filmagens em 360 graus em primeira pessoa, permitindo que se vejam os braços e o corpo de um ator. Isso significa que o usuário da experiência visualiza os eventos através dos olhos de um personagem, como se fosse o próprio personagem, mergulhando na expressão artística da narrativa. Para evitar possíveis desconfortos, os vídeos em 360 graus foram capturados em tempo real por meio de uma câmera fixa, a Insta360 ONE X, permitindo que o usuário olhe em todas as direções, embora a partir de uma posição fixa.
+Como base para os desenhos animados, foram realizadas filmagens em 360 graus em primeira pessoa, permitindo que se vejam os braços e o corpo de um ator. Isso significa que o usuário da experiência visualiza os eventos através dos olhos de um personagem, como se fosse o próprio personagem, mergulhando na narrativa. Para evitar possíveis desconfortos, os vídeos em 360 graus foram capturados em tempo real por meio de uma câmera fixa, a Insta360 ONE X, permitindo que o usuário olhe em todas as direções, embora a partir de uma posição fixa.
 
 A obra é inspirada em histórias em quadrinhos em preto e branco, onde apenas objetos em destaque se tornam coloridos, atuando como pontos de interesse para direcionar a atenção do usuário.
 
