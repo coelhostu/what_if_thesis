@@ -7,7 +7,8 @@ Como base para os desenhos animados, foram realizadas filmagens em 360 graus em 
 A obra é inspirada em histórias em quadrinhos em preto e branco, onde apenas objetos em destaque se tornam coloridos, atuando como pontos de interesse para direcionar a atenção do usuário.
 Trata-se de uma narrativa não linear com finalidades educacionais, onde, dependendo das escolhas do usuário, diferentes caminhos podem ser explorados na história, de maneira semelhante aos livro-jogos (conhecidos como "Choose Your Own Adventure").
 
-<br> A aplicação web VR pode ser visualizada através de óculos de realidade virtual, bem como em computadores e dispositivos móveis em formato de tela plana.
+<br> A aplicação web VR pode ser visualizada através de óculos de realidade virtual, bem como em computadores e dispositivos móveis em formato de tela plana. <br>
+Para acessar, recorte o link e cole:
 <br> [https://coelhostu.github.io/what_if_thesis](URL)
 
 <em> Obs: Este é um produto sem fins lucrativos. Este MVP poderá ser atualizado no futuro </em>
