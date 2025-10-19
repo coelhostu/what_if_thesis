@@ -9,3 +9,23 @@
     bottom:0;
     z-index:10010;
 }
+
+/* Transições suaves para slides */
+.cp-timeline, .cp-main, #div_Slide {
+    transition: all 0.5s ease-in-out;
+}
+
+/* Transições para elementos interativos */
+[id*="Slide"], [id*="Hotspot"] {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Melhora transições de vídeo VR */
+video, canvas {
+    transition: opacity 0.4s ease;
+}
+
+/* Suaviza mudanças de estado */
+.cp-movie {
+    transition: all 0.3s ease-in-out;
+}
